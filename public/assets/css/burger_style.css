@@ -1,0 +1,59 @@
+.jumbotron {
+    background-color: #94d3ac;
+    color: #655c56
+}
+
+* {
+    font-family: 'Comic Neue', cursive; 
+    font-size: 20px;
+}
+
+#add {
+    align-content: center;
+    text-align: center;
+    border-color: #655c56;
+    border-width: 1px;
+    border-style: dashed;
+    padding-top: 10px;
+}
+
+.add-row {
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 46px !important;
+}
+
+body {
+    color: #655c56;
+}
+
+h2 {
+    color: #94d3ac;
+    padding-right: 0;
+}
+
+#submit {
+    margin-top: 20px;
+}
+
+.change-devoured {
+    background-color: #effcef;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.delete-burger {
+    background-color: #655c56;
+    color: #94d3ac;
+    border-radius: 5px;
+}
+
+.add-burger {
+    background-color: #94d3ac;
+    border-radius: 5px;
+}
+
+#title {
+    font-weight: bolder;
+    font-size: 22px;
+}
