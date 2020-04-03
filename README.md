@@ -1,5 +1,6 @@
 # Burger!
 A Node/Express/Handlebars burger logger app made with Mysql for hw 13
+View live Heroku deployment <a href="https://rhumble-burger.herokuapp.com/">HERE</a>
 
 ```
 As a burger-phile
@@ -26,3 +27,4 @@ N/A
 **Created by: rachelhumble@me.com** 
     
 <img src="https://avatars2.githubusercontent.com/u/58493428?v=4" height="150" width="150">
+&copy; 2020 Rachel Humble 
